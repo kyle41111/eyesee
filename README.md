@@ -1,5 +1,5 @@
 # eyesee
-Eyesee Visualizes Web pages based on fuzzed directories. Perfect for quick reporting, or reference checks.
+Eyesee Visualizes Web pages based on fuzzed directories with the help of feroxbuster and eyewitness. Perfect for quick reporting, or reference checks.
 
 Usage:
 
