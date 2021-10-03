@@ -5,7 +5,7 @@ There are two shorter term goals i have for this project.
 
 1.Feed Eyesee results to burpsuite to populate scope correctly.
 
-2.Direct Data output to cherry tree nodes for easy reporting. 
+2.Direct Data streams to cherry tree nodes for easy reporting. 
 
 
 Usage:
