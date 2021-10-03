@@ -1,5 +1,12 @@
 # eyesee
 Eyesee Visualizes Web pages based on fuzzed directories with the help of feroxbuster and eyewitness. Perfect for quick reporting, or reference checks.
+This is the start of a bigger plan of mine. This will run along side a project of mine that was inspire by AutoRecon. Except, it fits my methodology more closely.
+There are two shorter term goals i have for this project.
+
+1.Feed Eyesee results to burpsuite to populate scope correctly.
+
+2.Direct Data output to cherry tree nodes for easy reporting. 
+
 
 Usage:
 
